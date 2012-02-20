@@ -6,9 +6,9 @@ Copyr Example:
 
 ```javascript
 var walkFiles = require('walkr'),
-fs        = require('fs'),
-tplData   = {},
-mu        = require('mu');
+fs            = require('fs'),
+mu            = require('mu'),
+tplData       = {};
 
 walkFiles(source, destination).
 filter(/^\./). //no hidden files AND dirs
