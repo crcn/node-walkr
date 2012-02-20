@@ -21,7 +21,8 @@ filterFile(function(options, next) {
 		
 		//after write file, call next. SINCE parameters are given, walkr assumes files were written, so it does
 		//not continue.
-		return fs.writeFile(options.destination, mu.to_html(fs.readFileSync(source, "utf8"), tplData), next);
+		var tpl = mu.to_html(fs.readFileSync(options.source, "utf8"), tplData);
+		return fs.writeFile(options.destination, tpl, next);
 
 	}
 
