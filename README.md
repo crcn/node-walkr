@@ -1,6 +1,7 @@
 ## Recursive file walking / copying for node.js with middleware
 
 
+
 Copyr Example:
 
 ```javascript
@@ -10,7 +11,9 @@ tplData   = {},
 mu        = require('mu');
 
 walkFiles(source, destination).
-use(function(options, next) {
+filter(/^\./). //no hidden files AND dirs
+filterDir('dir', /node_modules/). //no node_modules dir
+filterFile(function(options, next) {
 	
 
 	//template file? parse it, and copy it.
@@ -25,8 +28,8 @@ use(function(options, next) {
 	//call next without parameters 
 	return next();
 }).
-use(walkFiles.copy).
-end(function(err) {
+filter(walkFiles.copy).
+start(function(err) {
 	
 	//done
 });
@@ -39,13 +42,13 @@ Walkr Example:
 var walkFiles = require('walkr');
 
 walkFiles(source).
-on('directory', function(dir) {
-	
+on('directory', function(ops) {
+	console.log(ops.source);
 }).
-on('file', function(file) {
-	
+on('file', function(ops) {
+	console.log(ops.source);
 }).
-end(function(err) {
+start(function(err) {
 	
 });
 ```
