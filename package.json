@@ -3,7 +3,7 @@
   "description": "Recursive file walking / copying for node with middleware",
   "repository": {
      "type":"git",
-     "url":"https://github.com/crcn/copyr.git"
+     "url":"http://github.com/crcn/copyr.git"
   },
   "author": "Craig Condon",
   "keywords": ["copy"], 
