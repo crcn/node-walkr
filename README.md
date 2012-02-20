@@ -12,7 +12,7 @@ mu        = require('mu');
 
 walkFiles(source, destination).
 filter(/^\./). //no hidden files AND dirs
-filterDir('dir', /node_modules/). //no node_modules dir
+filterDir(/node_modules/). //no node_modules dir
 filterFile(function(options, next) {
 	
 
