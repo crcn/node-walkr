@@ -1,5 +1,9 @@
 ## Recursive file walking / copying for node.js with middleware
 
+## Motivation
+
+- Ability to filter files & directories.
+- Inspired by [dryice](/mozilla/dryice), [findit](/substack/node-findit).
 
 
 Copyr Example:
