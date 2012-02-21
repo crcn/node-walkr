@@ -35,7 +35,15 @@
 			"file": "lib/index.js",
 			"settings":
 			{
-				"buffer_size": 4985,
+				"buffer_size": 5792,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin PGKyCQ.txt",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -233,6 +241,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"filter(",
+			"filter",
 			".test",
 			"test(",
 			".test",
@@ -358,9 +368,7 @@
 			"profile",
 			"channel",
 			"secret",
-			"channel",
-			"token'",
-			"token"
+			"channel"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -438,15 +446,15 @@
 					"file": "lib/index.js",
 					"settings":
 					{
-						"buffer_size": 4985,
+						"buffer_size": 5792,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								294,
-								294
+								2411,
+								2411
 							]
 						],
 						"settings":
@@ -455,14 +463,14 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1982.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "/tmp/subl stdin TapzJy.txt",
+					"file": "/tmp/subl stdin PGKyCQ.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -488,6 +496,32 @@
 				},
 				{
 					"buffer": 4,
+					"file": "/tmp/subl stdin TapzJy.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
 					"file": "README.md",
 					"settings":
 					{
@@ -514,7 +548,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "node_modules/seq/index.js",
 					"settings":
 					{
