@@ -17,7 +17,8 @@
     "outcome":"0.0.x",
     "mustache":"0.4.x",
     "ejs":"0.6.x",
-    "structr":"0.1.x"
+    "structr":"0.1.x",
+    "handlebars":"1.0.x"
   },
   "devDependencies": {
   },
