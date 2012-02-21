@@ -35,7 +35,15 @@
 			"file": "lib/index.js",
 			"settings":
 			{
-				"buffer_size": 5792,
+				"buffer_size": 5817,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin meO5NJ.txt",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -446,15 +454,15 @@
 					"file": "lib/index.js",
 					"settings":
 					{
-						"buffer_size": 5792,
+						"buffer_size": 5817,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2411,
-								2411
+								2080,
+								2080
 							]
 						],
 						"settings":
@@ -463,14 +471,14 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1982.0,
+						"translation.y": 1605.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "/tmp/subl stdin PGKyCQ.txt",
+					"file": "/tmp/subl stdin meO5NJ.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -496,7 +504,7 @@
 				},
 				{
 					"buffer": 4,
-					"file": "/tmp/subl stdin TapzJy.txt",
+					"file": "/tmp/subl stdin PGKyCQ.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -522,6 +530,32 @@
 				},
 				{
 					"buffer": 5,
+					"file": "/tmp/subl stdin TapzJy.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
 					"file": "README.md",
 					"settings":
 					{
@@ -548,7 +582,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "node_modules/seq/index.js",
 					"settings":
 					{
