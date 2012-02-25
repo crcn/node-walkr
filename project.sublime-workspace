@@ -59,7 +59,7 @@
 			"file": "lib/mergeJSON.js",
 			"settings":
 			{
-				"buffer_size": 725,
+				"buffer_size": 850,
 				"line_ending": "Unix"
 			}
 		},
@@ -68,6 +68,14 @@
 			"settings":
 			{
 				"buffer_size": 1124,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin shR31B.txt",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -442,7 +450,7 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -582,15 +590,15 @@
 					"file": "lib/mergeJSON.js",
 					"settings":
 					{
-						"buffer_size": 725,
+						"buffer_size": 850,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								62,
-								33
+								249,
+								249
 							]
 						],
 						"settings":
@@ -633,7 +641,7 @@
 				},
 				{
 					"buffer": 7,
-					"file": "/tmp/subl stdin kISK4S.txt",
+					"file": "/tmp/subl stdin shR31B.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -659,7 +667,7 @@
 				},
 				{
 					"buffer": 8,
-					"file": "/tmp/subl stdin meO5NJ.txt",
+					"file": "/tmp/subl stdin kISK4S.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -685,7 +693,7 @@
 				},
 				{
 					"buffer": 9,
-					"file": "/tmp/subl stdin PGKyCQ.txt",
+					"file": "/tmp/subl stdin meO5NJ.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -711,7 +719,7 @@
 				},
 				{
 					"buffer": 10,
-					"file": "/tmp/subl stdin TapzJy.txt",
+					"file": "/tmp/subl stdin PGKyCQ.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -737,6 +745,32 @@
 				},
 				{
 					"buffer": 11,
+					"file": "/tmp/subl stdin TapzJy.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
 					"file": "README.md",
 					"settings":
 					{
@@ -763,7 +797,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 12,
+					"buffer": 13,
 					"file": "node_modules/seq/index.js",
 					"settings":
 					{
@@ -791,7 +825,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 13,
+					"buffer": 14,
 					"file": "package.json",
 					"settings":
 					{
