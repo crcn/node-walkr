@@ -1,26 +1,21 @@
 {
-  "name": "walkr",
-  "description": "Recursive file walking / copying for node with middleware",
-  "repository": {
-     "type":"git",
-     "url":"http://github.com/crcn/copyr.git"
-  },
-  "author": "Craig Condon",
-  "keywords": ["copy"], 
-  "version": "0.0.1",
-  "repository": {
-  },
-  "engines": {
-  },
-  "dependencies": {
-    "step":"0.0.x",
-    "outcome":"0.0.x",
-    "mustache":"0.4.x",
-    "ejs":"0.6.x",
-    "structr":"0.1.x",
-    "handlebars":"1.0.x"
-  },
-  "devDependencies": {
-  },
-  "main":"./lib/index.js"
+    "name": "walkr",
+    "description": "Recursive file walking / copying for node with middleware",
+    "repository": {},
+    "author": "Craig Condon",
+    "keywords": [
+        "copy"
+    ],
+    "version": "0.0.2",
+    "engines": {},
+    "dependencies": {
+        "step": "0.0.x",
+        "outcome": "0.0.x",
+        "mustache": "0.4.x",
+        "ejs": "0.6.x",
+        "structr": "0.1.x",
+        "handlebars": "1.0.x"
+    },
+    "devDependencies": {},
+    "main": "./lib/index.js"
 }
