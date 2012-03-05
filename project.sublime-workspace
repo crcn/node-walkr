@@ -35,7 +35,23 @@
 			"file": "lib/index.js",
 			"settings":
 			{
-				"buffer_size": 5855,
+				"buffer_size": 5850,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin Kj0TuU.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/tmp/subl stdin zsWahn.txt",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -59,7 +75,7 @@
 			"file": "lib/mergeJSON.js",
 			"settings":
 			{
-				"buffer_size": 850,
+				"buffer_size": 866,
 				"line_ending": "Unix"
 			}
 		},
@@ -139,7 +155,7 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 520,
+				"buffer_size": 488,
 				"line_ending": "Unix"
 			}
 		}
@@ -458,7 +474,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -518,15 +534,15 @@
 					"file": "lib/index.js",
 					"settings":
 					{
-						"buffer_size": 5855,
+						"buffer_size": 5850,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2197,
-								2197
+								5126,
+								5128
 							]
 						],
 						"settings":
@@ -535,14 +551,14 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1694.0,
+						"translation.y": 5444.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "/tmp/subl stdin UqIfz1.txt",
+					"file": "/tmp/subl stdin Kj0TuU.txt",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -568,6 +584,58 @@
 				},
 				{
 					"buffer": 4,
+					"file": "/tmp/subl stdin zsWahn.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/tmp/subl stdin UqIfz1.txt",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
 					"file": "lib/copyFile.js",
 					"settings":
 					{
@@ -594,19 +662,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 7,
 					"file": "lib/mergeJSON.js",
 					"settings":
 					{
-						"buffer_size": 850,
+						"buffer_size": 866,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								249,
-								249
+								241,
+								241
 							]
 						],
 						"settings":
@@ -621,7 +689,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 8,
 					"file": "/tmp/subl stdin h6Z8A1.txt",
 					"settings":
 					{
@@ -647,7 +715,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 9,
 					"file": "lib/parseTemplate.js",
 					"settings":
 					{
@@ -674,7 +742,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 10,
 					"file": "/tmp/subl stdin shR31B.txt",
 					"settings":
 					{
@@ -700,7 +768,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 11,
 					"file": "/tmp/subl stdin kISK4S.txt",
 					"settings":
 					{
@@ -726,7 +794,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 12,
 					"file": "/tmp/subl stdin meO5NJ.txt",
 					"settings":
 					{
@@ -752,7 +820,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 13,
 					"file": "/tmp/subl stdin PGKyCQ.txt",
 					"settings":
 					{
@@ -778,7 +846,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 12,
+					"buffer": 14,
 					"file": "/tmp/subl stdin TapzJy.txt",
 					"settings":
 					{
@@ -804,7 +872,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 13,
+					"buffer": 15,
 					"file": "README.md",
 					"settings":
 					{
@@ -831,7 +899,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 14,
+					"buffer": 16,
 					"file": "node_modules/seq/index.js",
 					"settings":
 					{
@@ -859,25 +927,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 15,
+					"buffer": 17,
 					"file": "package.json",
 					"settings":
 					{
-						"buffer_size": 520,
+						"buffer_size": 488,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								457,
-								457
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
